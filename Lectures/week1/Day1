@@ -2,9 +2,18 @@ First Day of the 100days of Linux 30th January 2024.
 
 ## PERMISSIONS
 
-as we all know that the core feature of Linux operating system is multitasking and multiuser systems, meaning we can have more than one user in a computer and they have their separate files and directory, now the problem now is that because it is one computer right ??, so any user can access or modify another users room, lol .. , yea i used room cause the whole concept is like when you have a house with different people living inside the house, having a room to themselves, now lets assume the rooms have no key, that means that when Miriam is not round Dami can go into her room and steal her weavon right ? lol .., with this scenario we can see that we need a way to make each user have their own privacy right ??, that is what brought to the concept of PERMISSIO IN LINUX.
+as we all know that the core feature of Linux operating system is multitasking and multiuser systems, meaning we can have more than one user in a computer and they have their separate files and directory, now the problem now is that because it is one computer right ??, so any user can access or modify another users room, lol .. , yea i used room cause the whole concept is like when you have a house with different people living inside the house, having a room to themselves, now lets assume the rooms have no key, that means that when Miriam is not round Dami can go into her room and steal her weavon right ? lol .., with this scenario we can see that we need a way to make each user have their own privacy right ??, that is what brought to the concept of PERMISSION IN LINUX.
 
+we have some commands that we will wrap our heads around in order to manage the users Permissions
 
+1. id == used to view identity of a user
+2. chown == use to change a files ownership
+3. chmod == use to change files mode
+4. chgrp == use to change files groups ownership
+3. su == Run as super user
+4. sudo == run a script as super user
+6. unmask == set the default file permissions
+7. passwd == use to change users password 
 
 
 

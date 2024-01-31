@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#write a script that creates an empty file hello
+
+> hello

@@ -27,3 +27,7 @@ what is the Application layer ??
 
 the application layer is the top most part of the os, that provides a means
 in which the user can communicate with the os kernel to perform specific instructions
+
+what is the os kernel ??
+
+the os kernel is an important software in our kernel whose main work is to communicate with the hardware in order to manage resources in our computer,such as sharing cpu, scheduling process and alot more, and its more closer to the hardware of the computer.

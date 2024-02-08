@@ -12,3 +12,18 @@ where do containers live ??
 
 A container repositories
 private Repositories
+
+Let's look into what Docker and vm tries to solve for us.
+
+so basically Docker and vms mainly helps us in virtualization in our computer.
+
+Now the os is mainly divided into two which are.
+
+The Applications layer
+the os kernel layer
+
+
+what is the Application layer ??
+
+the application layer is the top most part of the os, that provides a means
+in which the user can communicate with the os kernel to perform specific instructions

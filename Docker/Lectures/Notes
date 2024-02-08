@@ -40,3 +40,6 @@ let's first of all look at how vm's virtualizes, Vms virtualizes the Application
 that means a vm comes with it's own operating system kernel and application layer, they only share the computers hardware.
 
 while a contianer only virtualizes the Application layer of the os, and shares the os kernel and computers hardware.
+
+
+Difference between Images and Container.

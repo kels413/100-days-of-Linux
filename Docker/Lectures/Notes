@@ -31,3 +31,7 @@ in which the user can communicate with the os kernel to perform specific instruc
 what is the os kernel ??
 
 the os kernel is an important software in our kernel whose main work is to communicate with the hardware in order to manage resources in our computer,such as sharing cpu, scheduling process and alot more, and its more closer to the hardware of the computer.
+
+now how do containers and vms(virtual Machine manages virtualizes our computer) ??
+
+let's first of all look at how vm's virtualizes, Vms virtualizes the Application layer of the os and the os kernel or kernel in short

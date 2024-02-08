@@ -1,0 +1,14 @@
+#Lecture on Docker
+
+What is Container ??
+
+A container is way to package an application with all the necessary configurations and
+dependcies that the project we are trying to build needs.
+
+
+Container's are portable, so we can share them around
+
+where do containers live ??
+
+A container repositories
+private Repositories

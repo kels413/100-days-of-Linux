@@ -14,9 +14,3 @@ we have some commands that we will wrap our heads around in order to manage the 
 4. sudo == run a script as super user
 6. unmask == set the default file permissions
 7. passwd == use to change users password
-
-
-# Read write and execute script.
-
-
-

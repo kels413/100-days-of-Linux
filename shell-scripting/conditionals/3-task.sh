@@ -5,6 +5,8 @@ Write a script that prompts the user to enter their age. If the age is less than
 COMMENT
 
 
-user_age="please input your age: "
+echo -n  "please input your age: "
 
-echo "$user_age"
+read user_input
+
+echo "Welcome back to our channel $user_input"

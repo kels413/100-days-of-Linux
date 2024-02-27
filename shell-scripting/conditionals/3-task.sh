@@ -9,7 +9,8 @@ echo -n  "please input your age: "
 
 read user_input
 
-if [ $user_input -lt 18 ]; then
+if (( $user_input < 18 )); then
+#if [ $user_input -lt 18 ]; then
     echo "sorry! you are minor"
 else
     echo "hey! you an adult"

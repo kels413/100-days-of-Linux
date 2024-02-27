@@ -9,11 +9,12 @@ num=$1
 
 if [ ! "$num" ]; then 
     echo "Usage: <$0> <input>"
+    exit 1
 fi
 
-if [ "$num" / 2 -eq 0]
+if [ $(("$num" / 2)) -eq 0 ]
 then
-    echo "$num is Even number""
+    echo "$num is Even number"
 else
     echo "$num is an Odd number"
 fi

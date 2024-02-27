@@ -10,5 +10,8 @@ if [ "$#" -ne 1 ]; then
     exit 1
 fi
 
-
-
+if [ -z "$1" ]; then
+    echo "empty string"
+else
+    echo "Non-empty string ($1)"
+fi

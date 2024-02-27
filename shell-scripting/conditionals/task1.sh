@@ -7,12 +7,12 @@ COMMENT
 
 num=$1
 
-if [ ! "$num" ]; then 
+if [ "$#" -ne 1 ]; then 
     echo "Usage: <$0> <input>"
     exit 1
 fi
 
-if [ $(("$num" / 2)) -eq 0 ]
+if (( num % 2 == 0)) 
 then
     echo "$num is Even number"
 else

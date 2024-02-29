@@ -1,3 +1,5 @@
 HYPERTEXT TRANSFER PROTOCOL (HTTP)
 
-what is HYPERTEXT protocol it is a protocol that helps us to send and recieve response over the web, it is 
+what is HYPERTEXT protocol it is a protocol that helps us to send and recieve response over the web
+
+characteristics of 

@@ -4,5 +4,5 @@ what is HYPERTEXT protocol it is a protocol that helps us to send and recieve re
 
 characteristics of HTTP
 
-it is a serverless protocol
+it is a stateless protocol
 e

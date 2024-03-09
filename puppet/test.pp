@@ -1,6 +1,6 @@
 
-
-file{ '/home/vagrant/file.txt':
+file { '/vagrant/My-Projects/Devops/puppet/main.py':
     ensure => present,
-    content => "GOD IS THE GREATEST",
-}t
+    content => "print('hello world')",
+}
+
